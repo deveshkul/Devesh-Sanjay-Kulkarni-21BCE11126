@@ -6,6 +6,8 @@ This project is a chess-like game featuring custom characters with distinct move
 Project Structure
 index - Contains the client-side code (HTML, CSS, JavaScript) and static assets like images.
 server - Contains the server-side code (Node.js with Express and WebSocket).
+
+
 Run Locally
 Clone the project
 
@@ -18,15 +20,15 @@ Install the necessary packages for the server using npm:
 Start the server
 
 Start the server with the following command:
-
  python server.py
+
+ 
 The server will be accessible at:
-
  ws://localhost:6789
+
+ 
 Open the Web Client
-
 Open the index.html file in two different browser windows (or tabs).
-
 Both windows should connect to the server as different players.
 
 Setup and Play the Game

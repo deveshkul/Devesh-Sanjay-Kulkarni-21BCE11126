@@ -11,12 +11,12 @@ server - Contains the server-side code (Node.js with Express and WebSocket).
 Run Locally
 Clone the project
 
-git clone this project
-Install dependencies
+git clone this project - https://github.com/deveshkul/Devesh-Sanjay-Kulkarni-21BCE11126.git
 
+Install dependencies
 Install the necessary packages for the server using npm:
 
- pip install websockets
+pip install websockets
 Start the server
 
 Start the server with the following command:
